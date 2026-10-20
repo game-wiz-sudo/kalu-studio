@@ -5,6 +5,7 @@ import About from './components/About'
 import Expertise from './components/Expertise'
 import Work from './components/Work'
 import Contact from './components/Contact'
+import Education from './components/Education';
 
 function App() {
 return (
@@ -14,7 +15,8 @@ return (
     <Hero />
     <About />
     <Expertise />
-    <Work />
+    <Work />    
+    <Education />
     <Contact />
   </main>
 </>
