@@ -402,9 +402,13 @@ function LegalPage() {
             <p>Get in touch if you have questions about this page.</p>
           </div>
 
-          <a href="wa.me/2348156116975" className="legal-contact-link">
-            Contact me <span aria-hidden="true">↗</span>
-          </a>
+          <a href="https://api.whatsapp.com/send?phone=2348156116975"
+className="legal-contact-link"
+target="_blank"
+rel="noopener noreferrer">
+
+Contact me <span aria-hidden="true">↗</span> </a>
+
         </div>
 
         <div className="legal-bottom">
