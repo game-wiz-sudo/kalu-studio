@@ -5,7 +5,7 @@
   <!-- Homepage -->
 
   <url>
-    <loc>https://kalu-dev.vercel.app/</loc>
+    <loc>https://kalu-studio.vercel.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -13,7 +13,7 @@
   <!-- Privacy Policy -->
 
   <url>
-    <loc>https://kalu-dev.vercel.app/privacy-policy</loc>
+    <loc>https://kalu-studio.vercel.app/privacy-policy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -21,7 +21,7 @@
   <!-- Terms of Use -->
 
   <url>
-    <loc>https://kalu-dev.vercel.app/terms-of-use</loc>
+    <loc>https://kalu-studio.vercel.app/terms-of-use</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -29,7 +29,7 @@
   <!-- Disclaimer -->
 
   <url>
-    <loc>https://kalu-dev.vercel.app/disclaimer</loc>
+    <loc>https://kalu-studio.vercel.app/disclaimer</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -37,7 +37,7 @@
   <!-- Cookie Policy -->
 
   <url>
-    <loc>https://kalu-dev.vercel.app/cookie-policy</loc>
+    <loc>https://kalu-studio.vercel.app/cookie-policy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -45,7 +45,7 @@
   <!-- Accessibility Statement -->
 
   <url>
-    <loc>https://kalu-dev.vercel.app/accessibility</loc>
+    <loc>https://kalu-studio.vercel.app/accessibility</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
